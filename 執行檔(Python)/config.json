@@ -1,0 +1,15 @@
+{
+  "width": 280,
+  "font_size": 40,
+  "font_color": "#ffffff",
+  "bg_color": "#000000",
+  "opacity": 0.85,
+  "timezone": "Asia/Taipei",
+  "auto_start": true,
+  "bg_type": "transparent",
+  "bg_image": null,
+  "font_weight": 700,
+  "font_family": "Comic Sans MS",
+  "x": 1629,
+  "y": 34
+}
